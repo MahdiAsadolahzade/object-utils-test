@@ -1,6 +1,6 @@
 {
   "name": "object-utils-m-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "an easy tool for filtering and transforming object values ",
   "main": "dist/globals.js",
   "types": "dist/globals.d.ts",
