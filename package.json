@@ -5,6 +5,10 @@
   "main": "dist/globals.js",
   "types": "dist/globals.d.ts",
   "keywords": ["object", "utils", "typescript"],
-  "author": "Mahdi Asadolahzade",
-  "license": "ISC"
+  "author": "mahdiasadolahzade",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MahdiAsadolahzade/object-utils-test.git"
+  }
 }
