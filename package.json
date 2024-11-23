@@ -1,0 +1,10 @@
+{
+  "name": "object-utils",
+  "version": "1.0.0",
+  "description": "an easy tool for filtering and transforming object values ",
+  "main": "dist/globals.js",
+  "types": "dist/globals.d.ts",
+  "keywords": ["object", "utils", "typescript"],
+  "author": "Mahdi Asadolahzade",
+  "license": "ISC"
+}
